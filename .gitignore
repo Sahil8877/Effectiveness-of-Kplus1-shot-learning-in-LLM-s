@@ -7,3 +7,4 @@ llama_tools/Meta-Llama-3-8B-Instruct.Q8_0.gguf
 collection.tsv
 /middle_products/*
 *.gguf
+/ipynb_checkpoints/*
