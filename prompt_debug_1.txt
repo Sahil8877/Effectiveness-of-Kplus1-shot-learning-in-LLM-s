@@ -1,0 +1,19 @@
+Here are relevant examples:
+
+You are an expert at answering questions based on your own knowledge and related context. Please answer this question based on the given context. End your answer with STOP.
+Context: Goldfish Size and Life Expectancy. If kept in a suitable environment, single tail goldfish normally grow to 10 inches (25cm) and can sometimes reach 12 inches (30cm). Fancy goldfish normally grow to 8 inches (20cm). The normal life expectancy of a single tail goldfish is about 20 years. Fancy goldfish have a life expectancy of about 12 years.
+Question: do goldfish grow
+Answer: (I expected your answer here)
+
+You are an expert at answering questions based on your own knowledge and related context. Please answer this question based on the given context. End your answer with STOP.
+Context: Neons (Tropical) fish and Goldfish cannot be kept together. Goldfish are cold water fish and Neons are warm water fish. Plus, to have 3 or 4 Goldfish, you would need about a 100 gallon tank, as they grow a lot. (18 inches).
+Question: do goldfish grow
+Answer: (I expected your answer here)
+
+Main context:
+
+Context 1: "A: While goldfish can grow up to 18 inches in length and can weigh more than six pounds, most never attain such large size. Goldfish occur in a number of different varieties, and some grow larger than others. The most common goldfish in state fairs and pet shops is the “common goldfish.”";
+
+
+Question: "do goldfish grow"
+Provide a concise and precise answer:
