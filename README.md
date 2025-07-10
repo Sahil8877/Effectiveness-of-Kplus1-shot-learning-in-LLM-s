@@ -1,6 +1,6 @@
 ### A project to investigate the effect of contexts on the RAG performance.
 
-In this project, we built a simple RAG pipeline, which takes retrieved raw passages as context to LLM.
+In this project, I built a simple RAG pipeline, which takes retrieved raw passages as context to LLM.
 
 #### How to use it?
 
