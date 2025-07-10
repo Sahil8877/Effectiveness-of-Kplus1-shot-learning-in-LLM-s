@@ -4,7 +4,7 @@ In this project, we are building a simple RAG pipeline, which takes retrieved ra
 
 #### How to use it?
 
-This code is based on the library python-cpp-python. To correctly load the model from the .GGUF, please put the project under a directory where contains a sub-directory named 
+This code is based on the library python-cpp-python. To correctly load the model from the .GGUF, please put the project under a directory where it contains a sub-directory named 
 Meta-Llama-3-8B-Instruct (with Meta-Llama-3-8B-Instruct.Q8_0.gguf in it, download link: https://huggingface.co/QuantFactory/Meta-Llama-3-8B-Instruct-GGUF). Please note, the folder named Meta-Llama-3-8B-Instruct should be outside the folder which is cloned from this repository.
 
 There are two steps, namely, generating answers and evaluating the answers, here are example commands for each of them:
